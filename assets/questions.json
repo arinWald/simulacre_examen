@@ -1,0 +1,27 @@
+[
+    {
+      "enunciat": "Pregunta 1: En quin país viu en joanet?",
+      "opcions": [
+        "EL país de les puntxes",
+        "El país de les coses flotants"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "enunciat": "Pregunta 2: En Joanet quina infracció fa?",
+      "opcions": [
+          "Agafar una xocolatina",
+          "Agafar una rosa"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "enunciat": "Pregunta 3: Què li passa a en Joanet al final?",
+      "opcions": [
+        "Li fan fora del país",
+        "Li donen una medalla"
+      ],
+      "correctOptionIndex": 0
+    }
+  ]
+  
